@@ -1,8 +1,8 @@
 # Developing Exceptional Application Architects
 ## Contents
 1. [Introduction](#introduction)
-2. [Responsibilities](#responsibilities)
-3. [Exceptional Work Product](#wp)
+1. [Responsibilities](#responsibilities)
+1. [Exceptional Work Product](#wp)
 
 ## <a name="introduction"></a>Introduction
 This document is for individuals developing their skills around application architecture and for professionals working with or managing application architects.  I intend it as a direct and practical guide.  The topics distill ten years of working with, managing, and mentoring exceptional architects around the world. I’ll add a couple of sections each week as I get them out.  I hope you enjoy the read.
@@ -12,13 +12,13 @@ The primary responsibility of an application architect is to make and communicat
   
 An application architect must also:
 1. Ensure product and team success through architectural design.
-2. Ensure application designs are operationally supportable.
-3. Ensure development teams execute architectural decisions correctly.
-4. Continually improve lifecycle workflows for both quality and speed to market.
-5. Continually develop informed technical opinions.
-6. Understand the problems surrounding leaders are currently solving.
-7. Communicate effectively both up and down the organizational chain.
-8. Perform research and development to create new opportunities and improvements for both the application teams and the business.
+1. Ensure application designs are operationally supportable.
+1. Ensure development teams execute architectural decisions correctly.
+1. Continually improve lifecycle workflows for both quality and speed to market.
+1. Continually develop informed technical opinions.
+1. Understand the problems surrounding leaders are currently solving.
+1. Communicate effectively both up and down the organizational chain.
+1. Perform research and development to create new opportunities and improvements for both the application teams and the business.
 
 ## <a name="wp"></a>Exceptional Work Product
 An application architect must know with clarity who his or her audience is for the work product the architect produces. The work product cannot be for “the team” or for “anyone who needs it.” For some organizations, the application architect writes foundational work product for the project manager, the tech lead, and as a reference for fellow application architects. I include fellow application architects here because they may leverage the work product for other projects or take over when the original architect is no longer available. Work product for other individuals is on an as-needed basis.
@@ -45,8 +45,8 @@ An application architect should meet with team leaders on a reoccurring basis an
 
 Probing questions should be designed to detect if:
 1. The team continues to execute Architectural decisions as intended
-2. The design still fits the needs of the project, isn’t unnecessarily complicated, and is supportable
-3. The technologies chosen remain within the capabilities of the team
+1. The design still fits the needs of the project, isn’t unnecessarily complicated, and is supportable
+1. The technologies chosen remain within the capabilities of the team
 
 ### Review
 The final step in developing exceptional work product is the post-project review. This review is a brief interview by a fellow architect and includes both the work-product recipients and the architect. Questions should probe what standards worked well and what needs improvement. The fellow architect should bring findings back to the architect team. This review is not a substitute for the technical evaluation that occurs before implementation.
