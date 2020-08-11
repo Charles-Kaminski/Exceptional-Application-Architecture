@@ -1,13 +1,13 @@
 # Developing Exceptional Application Architects
 ## Contents
-1. Introduction
-2. Responsibilities
-3. Exceptional Work Product
+1. [Introduction](#introduction)
+2. [Responsibilities](#responsibilities)
+3. [Exceptional Work Product](#wp)
 
-## Introduction
+## <a name="introduction"></a>Introduction
 This document is for individuals developing their skills around application architecture and for professionals working with or managing application architects.  I intend it as a direct and practical guide.  The topics distill ten years of working with, managing, and mentoring exceptional architects around the world. I’ll add a couple of sections each week as I get them out.  I hope you enjoy the read.
 
-## Responsibilities
+## <a name="responsibilities"></a>Responsibilities
 The primary responsibility of an application architect is to make and communicate architectural decisions via architectural work product.  But this is not enough to excel.
   
 An application architect must also:
@@ -20,7 +20,7 @@ An application architect must also:
 7. Communicate effectively both up and down the organizational chain.
 8. Perform research and development to create new opportunities and improvements for both the application teams and the business.
 
-## Exceptional Work Product
+## <a name="wp"></a>Exceptional Work Product
 An application architect must know with clarity who his or her audience is for the work product the architect produces. The work product cannot be for “the team” or for “anyone who needs it.” For some organizations, the application architect writes foundational work product for the project manager, the tech lead, and as a reference for fellow application architects. I include fellow application architects here because they may leverage the work product for other projects or take over when the original architect is no longer available. Work product for other individuals is on an as-needed basis.
 
 Don’t get hung up if this is different in your organization. The point is that the audience must be precise down to the individual roles.  The architect must continue to adapt and improve her or her work product towards those individuals’ needs.
