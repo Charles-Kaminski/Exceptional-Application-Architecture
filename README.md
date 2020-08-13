@@ -23,7 +23,7 @@ An application architect must also:
 ## <a name="wp"></a>Exceptional Work Product
 An application architect must know with clarity who his or her audience is for the work product the architect produces. The work product cannot be for “the team” or for “anyone who needs it.” For some organizations, the application architect writes foundational work product for the project manager, the tech lead, and as a reference for fellow application architects. I include fellow application architects here because they may leverage the work product for other projects or take over when the original architect is no longer available. Work product for other individuals is on an as-needed basis.
 
-Don’t get hung up if this is different in your organization. The point is that the audience must be precise down to the individual roles.  The architect must continue to adapt and improve her or her work product towards those individuals’ needs.
+Don’t get hung up if this is different in your organization. The point is that the audience must be precise down to the individual roles.  The architect must continue to adapt and improve his or her work product towards those individuals’ needs.
 
 The work product must be simple, concise, and self-evident.
 
