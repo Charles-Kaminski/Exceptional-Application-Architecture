@@ -50,3 +50,5 @@ Probing questions should be designed to detect if:
 
 ### Review
 The final step in developing exceptional work product is the post-project review. This review is a brief interview by a fellow architect and includes both the work-product recipients and the architect. Questions should probe what standards worked well and what needs improvement. The fellow architect should bring findings back to the architect team. This review is not a substitute for the technical evaluation that occurs before implementation.
+
+<sup><sup>Copyright (c) 2020, Charles Kaminski</sup></sup>
