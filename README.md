@@ -3,6 +3,7 @@
 1. [Introduction](#introduction)
 1. [Responsibilities](#responsibilities)
 1. [Exceptional Work Product](#wp)
+1. [Exceptional Written Communication](#written) <sup><sup>Added 8/20/2020</sup></sup>
 
 ## <a name="introduction"></a>Introduction
 This document is for individuals developing their skills around application architecture and for professionals working with or managing application architects.  I intend it as a direct and practical guide.  The topics distill ten years of working with, managing, and mentoring exceptional architects around the world. I’ll add a couple of sections each week as I get them out.  I hope you enjoy the read.
@@ -50,5 +51,14 @@ Probing questions should be designed to detect if:
 
 ### Review
 The final step in developing exceptional work product is the post-project review. This review is a brief interview by a fellow architect and includes both the work-product recipients and the architect. Questions should probe what standards worked well and what needs improvement. The fellow architect should bring findings back to the architect team. This review is not a substitute for the technical evaluation that occurs before implementation.
+
+## <a name="written"></a>Exceptional Written Communication
+An application architect must excel in two types of written communication styles. The first is technical communication. The second is written communication directed towards an executive.
+
+Application architects should be practices in writing technical communications by the time they advance to architect. These written communications are usually emails, text chats, or other forms of writting to fellow technologists. They are brief, professional, technically relevant communications that arise in the course of working on an application team.
+
+Writing to an executive audience is materially different. Because of the target audience, these emails must follow a different pattern. The beginning of the email must be extremely brief – at most, only a few sentences.
+
+The first sentence must establish a simple context – what is this email about? This email will be one of many hundreds of emails an executive may read in a day, and a reminder of context is critical. Next, the email should clearly and concisely state the problem that needs solving or the information that needs to be communicated. Any additional relevant information should follow this brief introduction of context and ask. The email must avoid jargon and should spell out acronyms the first time used unless the architect is confident individuals both inside and outside of technology will understand these terms.  
 
 <sup><sup>Copyright (c) 2020, Charles Kaminski</sup></sup>
