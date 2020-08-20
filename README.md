@@ -4,6 +4,7 @@
 1. [Responsibilities](#responsibilities)
 1. [Exceptional Work Product](#wp)
 1. [Exceptional Written Communication](#written) <sup><sup>Added 8/20/2020</sup></sup>
+1. [Developing a Technical Opinion](#opinion)
 
 ## <a name="introduction"></a>Introduction
 This document is for individuals developing their skills around application architecture and for professionals working with or managing application architects.  I intend it as a direct and practical guide.  The topics distill ten years of working with, managing, and mentoring exceptional architects around the world. I’ll add a couple of sections each week as I get them out.  I hope you enjoy the read.
@@ -60,5 +61,12 @@ Application architects should be practices in writing technical communications b
 Writing to an executive audience is materially different. Because of the target audience, these emails must follow a different pattern. The beginning of the email must be extremely brief – at most, only a few sentences.
 
 The first sentence must establish a simple context – what is this email about? This email will be one of many hundreds of emails an executive may read in a day, and a reminder of context is critical. Next, the email should clearly and concisely state the problem that needs solving or the information that needs to be communicated. Any additional relevant information should follow this brief introduction of context and ask. The email must avoid jargon and should spell out acronyms the first time used unless the architect is confident individuals both inside and outside of technology will understand these terms.  
+
+## <a name="opinion"></a>Developing a Technical Opinion
+Exceptional application architects are comfortable admitting when they do not have a technical opinion about a matter. Although an architect should have a broad range of knowledge, it is impossible to know everything. What sets an exceptional application architect apart is that the architect will recognize this and communicate the responsibility to form a technical opinion on the relevant matter quickly. Follow-up is critical here.
+
+Forming an opinion is done by seeking relevant, first-principles information. Opinion and second-hand knowledge will not suffice if the architect is to take the lead on a technical matter. If the architect cannot educate him or herself with first-principles information and develop an informed opinion, the architect should bring an appropriate expert into the project. Bringing in an expert doesn’t absolve the architect of any bad decisions. The application architect must adequately verify the advice of a trusted third party. Verification can occur as the architect continues to educate him or herself on the topic.
+
+If the topic is so complex that only the most specialized individuals can understand the solution, the architect should verify outcomes as a part of the development process. Special care should be given to project planning around the additional inherent risk. This planning could be in the form of a POC or a callout regarding project risk. Other actions may be warranted to decrease project risk.
 
 <sup><sup>Copyright (c) 2020, Charles Kaminski</sup></sup>
