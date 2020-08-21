@@ -3,8 +3,8 @@
 1. [Introduction](#introduction)
 1. [Responsibilities](#responsibilities)
 1. [Exceptional Work Product](#wp)
-1. [Exceptional Written Communication](#written) <sup><sup>Added 8/20/2020</sup></sup>
-1. [Developing a Technical Opinion](#opinion) <sup><sup>Added 8/20/2020</sup></sup>
+1. [Exceptional Written Communication](#written) <sup><sup>New</sup></sup>
+1. [Developing a Technical Opinion](#opinion) <sup><sup>New</sup></sup>
 
 ## <a name="introduction"></a>Introduction
 This document is for individuals developing their skills around application architecture and for professionals working with or managing application architects.  I intend it as a direct and practical guide.  The topics distill ten years of working with, managing, and mentoring exceptional architects around the world. I’ll add a couple of sections each week as I get them out.  I hope you enjoy the read.
