@@ -81,6 +81,6 @@ An exceptional application architect will continue to develop a network. The arc
 1. What problems are you solving this year?
 1. Who are your leaders?
 
-An exceptional architect will begin to develop a sense of how architectures impact the leaders around him or her. At the senior architect level, the application architect should already have a network in place.  A senior architect will develop solutions to problems that cross many organizational boundaries, but cultivating the relationships needed begins at the architect level.
+An exceptional architect will begin to develop a sense of how architectures impact the leaders around him or her. At the senior architect level, the application architect should already have a network in place.  A senior architect will develop solutions to problems that cross many organizational boundaries, but cultivating the needed relationships begins at the architect level.
 
 <sup><sup>Copyright (c) 2020, Charles Kaminski</sup></sup>
