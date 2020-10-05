@@ -3,8 +3,10 @@
 1. [Introduction](#introduction)
 1. [Responsibilities](#responsibilities)
 1. [Exceptional Work Product](#wp)
-1. [Exceptional Written Communication](#written) <sup><sup>New</sup></sup>
-1. [Developing a Technical Opinion](#opinion) <sup><sup>New</sup></sup>
+1. [Exceptional Written Communication](#written)
+1. [Developing a Technical Opinion](#opinion)
+1. [Getting Hands Dirty](#hands) <sup><sup>New</sup></sup>
+1. [Network Development](#network) <sup><sup>New</sup></sup>
 
 ## <a name="introduction"></a>Introduction
 This document is for individuals developing their skills around application architecture and for professionals working with or managing application architects.  I intend it as a direct and practical guide.  The topics distill ten years of working with, managing, and mentoring exceptional architects around the world. I’ll add a couple of sections each week as I get them out.  I hope you enjoy the read.
@@ -68,5 +70,17 @@ Exceptional application architects are comfortable admitting when they do not ha
 Forming an opinion is done by seeking relevant, first-principles information. Opinion and second-hand knowledge will not suffice if the architect is to take the lead on a technical matter. If the architect cannot educate him or herself with first-principles information and develop an informed opinion, the architect should bring an appropriate expert into the project. Bringing in an expert doesn’t absolve the architect of any bad decisions. The application architect must adequately verify the advice of a trusted third party. Verification can occur as the architect continues to educate him or herself on the topic.
 
 If the topic is so complex that only the most specialized individuals can understand the solution, the architect should verify outcomes as a part of the development process. Special care should be given to project planning around the additional inherent risk. This planning could be in the form of a POC or a callout regarding project risk. Other actions may be warranted to decrease project risk.
+
+## <a name="hands"></a>Getting Hands Dirty
+An exceptional application architect will perceive and fill the need to code along with many other purely technical tasks. The team may need a POC or prototype built to show how to integrate new technology. There are times when a new algorithm needs development. There are crunch times when the team needs general help. Sometimes systems or data need to be analyzed to figure out what is going wrong.
+
+## <a name="network"></a>Network Development
+An exceptional application architect will continue to develop a network. The architect will seek to understand the leaders around him or her -- both inside and outside technology. An exceptional architect will be able to answer the following questions of a leader:
+1. How does your organization work?
+1. What is your strategy, and how does it fit into the executive plan?   
+1. What problems are you solving this year?
+1. Who are your leaders?
+
+An exceptional architect will begin to develop a sense of how architectures impact the leaders around him or her. At the senior architect level, the application architect should already have a network in place.  A senior architect will develop solutions to problems that cross many organizational boundaries, but cultivating the relationships needed begins at the architect level.
 
 <sup><sup>Copyright (c) 2020, Charles Kaminski</sup></sup>
