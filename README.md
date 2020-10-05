@@ -77,7 +77,7 @@ An exceptional application architect will perceive and fill the need to code alo
 ## <a name="network"></a>Network Development
 An exceptional application architect will continue to develop a network. The architect will seek to understand the leaders around him or her -- both inside and outside technology. An exceptional architect will be able to answer the following questions of a leader:
 1. How does your organization work?
-1. What is your strategy, and how does it fit into the executive plan?   
+1. What is your strategy and how does it fit into the executive plan?   
 1. What problems are you solving this year?
 1. Who are your leaders?
 
