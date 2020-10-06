@@ -6,7 +6,7 @@
 1. [Exceptional Written Communication](#written)
 1. [Developing a Technical Opinion](#opinion)
 1. [Getting Hands Dirty](#hands) <sup><sup>New</sup></sup>
-1. [Personal Network Development](#network) <sup><sup>New</sup></sup>
+1. [Building a Leadership Network](#network) <sup><sup>New</sup></sup>
 
 ## <a name="introduction"></a>Introduction
 This document is for individuals developing their skills around application architecture and for professionals working with or managing application architects.  I intend it as a direct and practical guide.  The topics distill ten years of working with, managing, and mentoring exceptional architects around the world. I’ll add a couple of sections each week as I get them out.  I hope you enjoy the read.
@@ -74,7 +74,7 @@ If the topic is so complex that only the most specialized individuals can unders
 ## <a name="hands"></a>Getting Hands Dirty
 An exceptional application architect will perceive and fill the need to code along with many other purely technical tasks. The team may need a POC or prototype built to show how to integrate new technology. There are times when a new algorithm needs development. There are crunch times when the team needs general help. Sometimes systems or data need to be analyzed to figure out what is going wrong.
 
-## <a name="network"></a>Personal Network Development
+## <a name="network"></a>Building a Leadership Network
 An exceptional application architect will continue to develop a personal network. The architect will seek to understand the leaders around him or her -- both inside and outside technology. An exceptional architect will be able to answer the following questions of a leader:
 1. How does your organization work?
 1. What is your strategy and how does it fit into the executive plan?   
